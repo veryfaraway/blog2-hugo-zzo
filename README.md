@@ -39,4 +39,4 @@ Hugo version 0.65.0 or higher is required.
 
 ## Screenshot
 
-![Hugo Theme Zzo Screenshot](/images/screenshot.png)
+![Hugo Theme Zzo Screenshot](/static/images/screenshot.pngimages/screenshot.png)
