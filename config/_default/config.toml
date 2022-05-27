@@ -1,8 +1,8 @@
-baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+baseURL = "http://burn.eone.one"
+title = "주경야근"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
