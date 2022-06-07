@@ -1,6 +1,6 @@
-logoText = "Zzo"
+logoText = "주경야근"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "IT 정보, 트렌드, 기술 공유 개인 블로그"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -60,14 +60,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "야근반장"
+email = "dinnerout.operation@gmail.com"
+whoami = "Software Engineer"
 bioImageUrl = ""
 useGravatar = false
 location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+organization = "EONE"
+link = "https://burn.eone.one/ko/"
 
 # sidebar
 enableBio = true

@@ -1,6 +1,6 @@
 [[main]]
   identifier = "about"
-  name = "어바웃"
+  name = "about"
   url = "about"
   weight = 1
 
