@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - 주경야근
     subtitle:
-      - The world’s fastest framework for building websites
+      - HUGO 기반 개인 블로그
     titleColor: 
     titleShadow: true
     titleFontSize: 44

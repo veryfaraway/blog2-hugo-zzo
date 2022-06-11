@@ -67,7 +67,7 @@ bioImageUrl = ""
 useGravatar = false
 location = "Seoul, Korea"
 organization = "EONE"
-link = "https://burn.eone.one/ko/"
+link = "https://burn.eone.one/"
 
 # sidebar
 enableBio = true
