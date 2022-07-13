@@ -1,13 +1,13 @@
-[en]
-  title = "Burn the midnight oil"
-  languageName = "English"
-  weight = 1
-  languagedir = "ltr"
-  contentdir = "content/en"
-
 [ko]
   title = "주경야근"
   languageName = "한국어"
-  weight = 2
+  weight = 1
   languagedir = "ltr"
   contentdir = "content/ko"
+
+[en]
+  title = "Burn the midnight oil"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"
