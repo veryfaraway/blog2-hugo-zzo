@@ -131,8 +131,8 @@ commento = false
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = "veryfaraway"              # Your GitHub ID
   repo = "blog2-hugo-zzo"               # The repo to store comments
-  clientId = "3ecf6b83abaef89e2fe3"           # Your client ID
-  clientSecret = "6b73acf897287774c440ec80de3345db77555b1c"       # Your client secret
+  clientId = "clientId"           # Your client ID
+  clientSecret = "clientSecret"       # Your client secret
 
 # Valine.
 # You can get your appid and appkey from https://leancloud.cn
