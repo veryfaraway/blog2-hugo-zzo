@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="svg3086"
+    sodipodi:docname="moving a table.svg"
+    viewBox="0 0 300 280"
+    version="1.1"
+    inkscape:version="0.48.4 r9939"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-4"
+      pagecolor="#ffffff"
+      inkscape:window-height="581"
+      inkscape:window-maximized="1"
+      inkscape:zoom="1"
+      inkscape:window-x="58"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="273.62824"
+      inkscape:cy="171.25128"
+      inkscape:window-width="962"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(0 -772.36)"
+    >
+    <path
+        id="path3346"
+        sodipodi:nodetypes="cccccc"
+        style="stroke:#000000;stroke-width:1px;fill:#867267"
+        inkscape:connector-curvature="0"
+        d="m239.67 962.7c-1.4401 29.861-1.981 59.807-5.3251 89.536 14.278 2.188 28.961 0.5681 43.206 1.2921 6.8405-10.036 0.45636-25.811 2.45-38.179-0.29677-14.693 2.8332-29.126 7.9039-42.778 3.4017-24.645-31.703-7.5822-48.235-9.8707z"
+    />
+    <path
+        id="path3344-8"
+        sodipodi:nodetypes="ssscccs"
+        style="stroke:#000000;stroke-width:1px;fill:#fff6d5"
+        inkscape:connector-curvature="0"
+        d="m247.33 889.16c-11.237-0.32164-15.883 24.477-23.886 32.446-4.6576 4.6381-10.1 8.4623-14.468 13.381-2.6816 3.0204-1.8639 4.3436-2.4385 8.2858-3.0209 25.474 17.047-5.704 21.465-12.87 8.4929-6.9433 38.795-32.096 36.661-40.244-3.2506-2.8382-12.999-0.87594-17.333-1z"
+    />
+    <path
+        id="path3288"
+        sodipodi:nodetypes="ccccccc"
+        style="color:#000000;stroke:#000000;stroke-width:1px;fill:#fff6d5"
+        inkscape:connector-curvature="0"
+        d="m73.333 870.53c6.2774 12.84 7.6534 33.013 10.034 46.838-0.11896 3.9396 4.7715 5.0257 7.0481 7.6006 8.5555 5.2384-3.5176 0.9417-7.6806 3.1344-6.2041 2.3398-8.211 1.7346-5.5643-4.806 1.4322-12.523-9.4472-36.574-9.743-49.117-0.19796-3.2168 6.1041-0.43365 5.9061-3.6505z"
+    />
+    <path
+        id="path3276"
+        style="stroke:#000000;stroke-width:1px;fill:#550000"
+        inkscape:connector-curvature="0"
+        d="m32.5 802.51c-9.1696-10.167 1.4608-26.288 12.452-24.643 7.8774-3.1079 19.743 17.651 6.8568 12.807-9.5356-6.2942-9.3604 12.173-18.03 11.964l-1.279-0.13z"
+    />
+    <path
+        id="path3334"
+        sodipodi:nodetypes="ccccccc"
+        style="stroke:#000000;stroke-width:1px;fill:#e9ddaf"
+        inkscape:connector-curvature="0"
+        d="m16.667 912.05c0.55555 40.374 0.11111 101.87 0.66666 142.25 8.4444 0.1342 16.889 0.2683 25.333 0.4024 0.11111-37.825 0.22222-75.65 0.33333-113.48 4.6667 37.02 9.3333 74.041 14 111.06h25c-0.33333-40.105-9.1667-103.15-9.5-143.25"
+    />
+    <path
+        id="path3278"
+        style="stroke:#000000;stroke-width:1px;fill:#fff6d5"
+        inkscape:connector-curvature="0"
+        d="m35.333 808.43c-1.2475 6.987 1.1577 13.819 6.2052 18.666 3.4872 4.5325 6.9743 9.0649 10.462 13.597 0.11111-7.0672 0.22222-14.134 0.33333-21.202-5.6667-5.3772-11.333-10.754-17-16.132v5.07z"
+    />
+    <path
+        id="path3282"
+        sodipodi:nodetypes="ccscccccccccc"
+        style="stroke:#000000;stroke-width:1px;fill:#f13572"
+        inkscape:connector-curvature="0"
+        d="m34 814.03c4.4156 6.2756 16.009 14.105 18.363 17.029-0.65302-6.624-1.208-13.618 0.62996-12.76 7.3623 3.4357 17.138 13.353 17.165 20.053 2.2806 12.448 4.5612 24.896 6.8418 37.345-6.1416 6.8254 0.70215 17.232-0.89897 25.535 1.266 11.249 4.554 29.408-12.299 28.256-14.74 2.1442-29.713 1.1359-44.518 0.50879-11.358-0.17-5.006-15.18-7.78-22.72-2.0606-22.81-5.1367-45.75-3.0988-68.68 4.8928-10.82 16.816-15.5 24.64-23.81l0.955-0.76229z"
+    />
+    <path
+        id="path3264"
+        style="stroke:#000000;stroke-width:1px;fill:#fff6d5"
+        inkscape:connector-curvature="0"
+        d="m55.333 790.03c3.3877 7.2928 4.1296 15.423 1.7427 23.114-6.0852 10.642-15.194-5.4934-23.155-6.7421-7.7512-2.0307-2.2283-11.024 2.9148-9.3398 2.5619-6.746 9.5281-10.648 16.254-7.3358 0.74795 0.10107 1.4959 0.20215 2.2438 0.30322z"
+    />
+    <path
+        id="path3266"
+        style="stroke:#000000;stroke-width:1px;fill:none"
+        inkscape:connector-curvature="0"
+        d="m53 796.36c2.165 3.1978 4.207 8.4349-2 8.3333"
+    />
+    <path
+        id="path3268"
+        style="stroke:#000000;stroke-width:1px;fill:#ff6600"
+        inkscape:connector-curvature="0"
+        d="m56 807.7c-4.3024 0.16455-8.7293 1.4368-1.497 2.2537 1.5873 0.60202 2.6088-1.1286 1.497-2.2537z"
+    />
+    <path
+        id="path3270"
+        style="stroke:#000000;stroke-width:1px;fill:none"
+        inkscape:connector-curvature="0"
+        d="m44.333 797.36c5.2804-1.0053 5.2514 1.3198 0.66667 3.3333"
+    />
+    <path
+        id="path3274"
+        style="stroke:#000000;stroke-width:1px;fill:none"
+        inkscape:connector-curvature="0"
+        d="m56.667 794.7c-5.0152 1.2342-0.10839 2.6936 1.3333 4.3333"
+    />
+    <path
+        id="path3286"
+        sodipodi:nodetypes="ccccccc"
+        style="color:#000000;stroke:#000000;stroke-width:1px;fill:#fff6d5"
+        inkscape:connector-curvature="0"
+        d="m18 873.92c1.4138 14.015-0.96037 39.292 2.9782 53.064-2.4243 18.777-8.9292 23.118-0.53155 21.917 1.6785-3.0295 0.69434-9.946 1.8147-2.7675 8.4408-3.8376 5.053-10.276 6.2631-20.336 0.93722-14.221 3.4024-39.489 2.4755-53.765-4.3333 0.62922-8.6667 1.2584-13 1.8877z"
+    />
+    <path
+        id="path3291"
+        style="stroke:#000000;stroke-width:1px;fill:#f13572"
+        inkscape:connector-curvature="0"
+        d="m8.8333 841.89l4.3333 43.135c7.5556-1.1389 15.111-2.2778 22.667-3.4167l-1-51.25"
+    />
+    <path
+        id="path3348"
+        sodipodi:nodetypes="ccccccccccccc"
+        style="stroke:#000000;stroke-width:1px;fill:#a05a2c"
+        inkscape:connector-curvature="0"
+        d="m16 948.86 68-20.5 175 4 1 37-4.5786-27.326l-29.42 20.83v24l-5.8948 2.248-5.0925-28.035-189.01-5.21-7.5 25.5-4-0.5z"
+    />
+    <path
+        id="path3338"
+        sodipodi:nodetypes="sccsccs"
+        style="stroke:#000000;stroke-width:1px;fill:#2b2200"
+        inkscape:connector-curvature="0"
+        d="m232.33 805.86c-2.9334 0 2.7581-5.5953 5.3333-7 17.054-12.521 39.458 7.6827 29.333 33-1.8994 1.9806-4.9428 2.6665-7.6667 3-2.8865 0.35345-6.013 0.18955-8.6667-1-11.155-0.13994-7.2161-27.07-18.333-28z"
+    />
+    <path
+        id="path3336"
+        sodipodi:nodetypes="cccccccccccccsc"
+        style="stroke:#000000;stroke-width:1px;fill:#fff6d5"
+        inkscape:connector-curvature="0"
+        d="m229.27 820.74c-1.44 2.0299-4.8536 2.3343-5.2158 5.1384 0.39138 2.0874 5.8027 3.6514 4.0283 6.9168 0.24645 1.7959 6.4336 0.0335 3.7489 1.7064-2.9515 3.1546-4.2955 5.8531 4.9075 6.2883 3.1733 4.6776 2.8115 16.419 8.0322 19.295 3.2933 0.96846 5.4787-6.7986 7.6514-9.0572 3.132-3.3746 5.2636-7.688 6.128-12.197 0.11497-3.8332-2.4038-7.0007-4.2252-10.155-1.0393-4.2533-11.31-1.2934-11.864-5.6365 0.96349-2.205 3.8469-2.8228 4.7064-5.1443 0.88825-1.909 0.69016-4.8372-1.389-5.8579-2.4778-0.76992-4.8035 1.2353-5.7996 3.3597-5.2191-14.549-1.4185-12.983-6.7562-10.582-3.3807 1.5212-4.1724 10.204-3.9525 15.925z"
+    />
+    <path
+        id="path3340"
+        sodipodi:nodetypes="cccccccc"
+        style="stroke:#000000;stroke-width:1px;fill:#ff6600"
+        inkscape:connector-curvature="0"
+        d="m259.83 839.7c-3.9837 4.6876-13.543 12.494-22.098 19.901-6.4066 31.75-1.4314 64.178-0.84604 96.206-4.5425 9.8247 2.3203 23.75 13.788 23.802 13.516 2.0458 27.604-0.35638 39.811-6.4574 8.5493-8.7375 4.6196-21.785 4.7834-32.658-1.4066-25.363-6.252-50.376-10.655-75.336-4.752-22.073-18.138-27.792-24.784-25.458z"
+    />
+    <path
+        id="path3344"
+        sodipodi:nodetypes="ssscccs"
+        style="stroke:#000000;stroke-width:1px;fill:#fff6d5"
+        inkscape:connector-curvature="0"
+        d="m265.67 912.36c-11.237-0.32164-15.883 24.477-23.886 32.446-4.6576 4.6381-10.1 8.4623-14.468 13.381-2.6816 3.0204-1.8639 4.3436-2.4385 8.2858-3.0209 25.474 17.047-5.704 21.465-12.87 8.4929-6.9433 38.795-32.096 36.661-40.244-3.2506-2.8382-12.999-0.87594-17.333-1z"
+    />
+    <path
+        id="path3270-8"
+        style="stroke:#000000;stroke-width:1px;fill:none"
+        inkscape:connector-curvature="0"
+        d="m234.52 815.82c-5.2804-1.0053-5.2514 1.3198-0.66667 3.3333"
+    />
+    <path
+        id="path3342"
+        sodipodi:nodetypes="cccc"
+        style="stroke:#000000;stroke-width:1px;fill:#ff6600"
+        inkscape:connector-curvature="0"
+        d="m249.5 877.53 7 40 28.667 0.83333c2.3747-9.7622-2.0037-26.48-3.6667-38.833"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
