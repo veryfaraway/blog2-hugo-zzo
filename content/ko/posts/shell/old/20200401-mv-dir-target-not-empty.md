@@ -1,6 +1,7 @@
 ---
-title: " 명령으로 디렉토리 이동시 덮어쓰기"
-description: "mv directory target not empty"
+title: "mv 명령으로 디렉토리 이동시 덮어쓰기"
+subtitle: "mv directory target not empty"
+description: "대상 디렉토리가 비어있지 않은 경우에 mv 명령으로 디렉토리 이동 방법"
 date: 2020-04-01
 draft: false
 author: 야근반장
