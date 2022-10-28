@@ -19,7 +19,7 @@ git, gradle, python, scala 등의 패키지를 설치하려고 할때 해당 패
 
 ## 설치
 
-Homebew를 설치하려면 Xcode에 포함된 Command Line Tools(명령어 라인 개발자 도구)가 필요합니다. 이미 Xcode가 설치되어 있으면 상관 없지만 그렇지 않은 분은 아래 명령을 통해 Command Line Tools만 설치 할 수 있습니다. Xcode 전체 용량이 5GB 정도 되므로 Homebrew만을 위해서라면 Command Line Tools만 설치하는 것을 추천합니다.
+Homebrew를 설치하려면 Xcode에 포함된 Command Line Tools(명령어 라인 개발자 도구)가 필요합니다. 이미 Xcode가 설치되어 있으면 상관 없지만 그렇지 않은 분은 아래 명령을 통해 Command Line Tools만 설치 할 수 있습니다. Xcode 전체 용량이 5GB 정도 되므로 Homebrew만을 위해서라면 Command Line Tools만 설치하는 것을 추천합니다.
 
 ```sh
 xcode-select --install
