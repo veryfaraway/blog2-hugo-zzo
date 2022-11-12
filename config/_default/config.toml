@@ -2,6 +2,9 @@ baseURL = "http://burn.eone.one"
 title = "주경야근"
 theme = "zzo"
 
+# robots.txt
+enableRobotsTXT = true
+
 defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
@@ -51,9 +54,6 @@ googleAnalytics = "G-CD1265EM87"
   category = "categories"
   tag = "tags"
   series = "series"
-
-# robots.txt
-enableRobotsTXT = true
 
 # sitemap 생성
 [sitemap]
