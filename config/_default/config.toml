@@ -15,11 +15,15 @@ buildFuture = true
 copyright = "&copy;{year}, All Rights Reserved"
 timeout = 10000
 enableEmoji = true
-paginate = 13
+paginate = 8
 rssLimit = 100
 
 enableGitInfo = false
 googleAnalytics = "G-CD1265EM87"
+
+[permalinks]
+  posts = '/:section/:year/:yearday/:slug/'
+  page = '/:section/:slug/'
 
 [markup]
   [markup.goldmark]
